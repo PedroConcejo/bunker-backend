@@ -33,7 +33,7 @@ function roleControl (req, res, next) {
       if (token.role === 'admin') {
         next()
       } else {
-        res.status(403).json({ error: 'No Role found' })
+        res.status(403).json({ error: 'Role not valid' })
       }
     })
   }

@@ -14,9 +14,10 @@ function signup (req, res) {
     name: req.body.name,
     email: req.body.email,
     password: hashedPwd,
-    img: req.body.img,
-    location: req.body.location,
-    role: req.body.role
+    // img: req.body.img,
+    box: req.body.box,
+    role: req.body.role,
+    dob: req.body.dob
   }
 
   UserModel.create(userBody)

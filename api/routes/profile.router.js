@@ -5,7 +5,7 @@ const {
   updateUser,
   deleteMe,
   changePassword
-} = require('../controllers/me.controller')
+} = require('../controllers/profile.controller')
 
 router.get('/', getMe)
 router.put('/', updateUser)
