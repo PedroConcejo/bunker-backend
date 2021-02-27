@@ -1,0 +1,34 @@
+[
+  {
+    "model": "routines",
+    "documents": [
+      {
+        "name": "AMRAP"
+      },
+      {
+        "name": "EMON"
+      },
+      {
+        "name": "For Time"
+      },
+      {
+        "name": "Metcon"
+      },
+      {
+        "name": "Tabata"
+      },
+      {
+        "name": "Heroes"
+      },
+      {
+        "name": "The Girls"
+      },
+      {
+        "name": "WOD"
+      },
+      {
+        "name": "Warm Up"
+      }
+    ]
+  }
+]

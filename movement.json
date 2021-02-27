@@ -1,0 +1,34 @@
+[
+  {
+    "model": "movement",
+    "documents": [
+      {
+        "name": "Clean"
+      },
+      {
+        "name": "Snatch"
+      },
+      {
+        "name": "Back Squat"
+      },
+      {
+        "name": "Front Squat"
+      },
+      {
+        "name": "Deadlift"
+      },
+      {
+        "name": "Shoulder Press"
+      },
+      {
+        "name": "Push Press"
+      },
+      {
+        "name": "Sumo Deadlift High Pull"
+      },
+      {
+        "name": "Overhead Squat"
+      }
+    ]
+  }
+]
